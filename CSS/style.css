@@ -44,15 +44,7 @@ header {
       background-color:#FFFFFF;
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-evenly;
-      padding: 50px;
-
-
-
- 
-   
-    
-    
+      justify-content: space-around;
     }
     
     .perfil{
@@ -62,7 +54,10 @@ header {
      background-color:#F3F3F3;
      font-weight: 400;
      box-shadow: 0 5px 10px -2px #000;
-     margin:65px;
+     margin-top: 80px;
+     margin-bottom: 80px;
+
+ 
 
 
     }
